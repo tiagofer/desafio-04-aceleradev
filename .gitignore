@@ -1,0 +1,5 @@
+d4/
+__pycache__/
+.vscode/
+stdout.txt
+output.xml
